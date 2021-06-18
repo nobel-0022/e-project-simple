@@ -1,0 +1,28 @@
+*{
+  font-family: 'Roboto', sans-serif;
+}
+.img{
+  background-image: url(bg2.jpeg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: sticky;
+  height: 100vh;
+}
+.icons .fab:hover{
+  background-color:yellow;
+  border-radius: 10px;
+  transition: 1s;
+}
+.navbar-nav{
+  margin-left: auto;
+}
+.navbar-nav .nav-item:hover{
+  background-color: lightgray;
+  border-radius: 10px;
+    transition: 1s;
+}
+.fab{
+  font-size: 50px;
+
+  }
